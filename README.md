@@ -1,2 +1,2 @@
 # jobapp
-fiHelpful for finding jobs, and posting jobs
+Helpful for finding jobs, and posting jobs.
